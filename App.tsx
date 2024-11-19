@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
     borderRadius: 20, // Rounded corners
     paddingVertical: 20, // Increased padding for more height
     paddingHorizontal: 30, // Padding for left and right
-    marginBottom: 20, // Space below the section
+    marginBottom: 20, // Space below the sect
     alignItems: 'flex-start', // Center the icons horizontally
     justifyContent: 'flex-start', // Center the content vertically
   },
